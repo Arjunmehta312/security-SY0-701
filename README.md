@@ -5,7 +5,7 @@ This repository is designed to assist individuals preparing for the **CompTIA Se
 ## Contents
 
 - **[Module 1 Folder](./Module%201/)**: Includes sub-modules in DOCX format covering various topics.
-- **[FEMA ICS-100 PDF](./FEMA_ICS_100.pdf)**: A helpful document providing foundational knowledge for incident management.
+- **[FEMA ICS-100 PDF](./FEMA%20ICS%20100.pdf)**: A helpful document providing foundational knowledge for incident management.
 - **[Links DOCX](./Links.docx)**: Contains additional resources, links, and citations for further study.
 
 ## Reference Material
