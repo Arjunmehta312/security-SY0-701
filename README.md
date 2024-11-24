@@ -1,6 +1,7 @@
 # CompTIA Security+ (SY0-701) Study Notes
 
 This repository is designed to assist individuals preparing for the **CompTIA Security+ (SY0-701)** certification exam. It includes well-organized study materials and references to help you understand and master key topics.
+If you find this helpful please consider star-marking this repository as it motivates me to keep adding notes and resources
 
 ## Contents
 
