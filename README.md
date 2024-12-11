@@ -5,7 +5,7 @@ If you find this helpful please consider star-marking this repository as it moti
 
 ## Contents
 
-- **[Module 1 Folder](./Module/)**: Includes sub-modules in DOCX format covering various topics.
+- **[Module Folders](./Module/)**: Includes sub-modules in DOCX format covering various topics.
 - **[FEMA ICS-100 PDF](./FEMA%20ICS%20100.pdf)**: A helpful document providing foundational knowledge for incident management.
 - **[Links DOCX](./Links.docx)**: Contains additional resources, links, and citations for further study.
 
